@@ -121,3 +121,11 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
