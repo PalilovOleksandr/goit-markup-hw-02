@@ -112,3 +112,10 @@ body {
 .logo-footer {
   color: #f4f4fd;
 }
+.descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
