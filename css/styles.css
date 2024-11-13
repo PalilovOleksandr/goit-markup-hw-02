@@ -1,4 +1,38 @@
 body {
   font-family: "Roboto", sans-serif;
   background: #fff;
+  color: #434455;
+}
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-inv {
+  color: #2e2f42;
+}
+.list-nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.list-nav:hover :focus {
+  color: #404bbf;
+}
+.list-info {
+  font-style: normal;
+}
+.list-contact {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.list-contact:hover :focus {
+  color: #404bbf;
 }
