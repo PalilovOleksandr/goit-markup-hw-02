@@ -54,6 +54,7 @@ body {
   text-align: center;
 }
 .title-button {
+  font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -102,6 +103,7 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .list-portf {
   background-color: #fff;
